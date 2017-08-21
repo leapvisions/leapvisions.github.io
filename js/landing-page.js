@@ -31,6 +31,24 @@ $('div.modal').on('show.bs.modal', function() {
 });
 
 $(function () {
+
+
+    var slider1 = new IdealImageSlider.Slider('#slider1');
+    var slider2 = new IdealImageSlider.Slider('#slider2');
+    var slider3 = new IdealImageSlider.Slider('#slider3');
+
+    slider1.addBulletNav();
+    slider2.addBulletNav();
+    slider3.addBulletNav();
+
+    slider1.start();
+    slider2.start();
+    slider3.start();
+
+});
+
+$(function () {
+
     var body = $('div.intro-header');
     var backgrounds = [
       'url(img/intro-bg.jpg) no-repeat center center', 

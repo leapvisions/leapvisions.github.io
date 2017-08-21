@@ -1,6 +1,9 @@
 ---
 layout: default
-img: family.jpg
+slider: slider2
+img1: family1.jpg
+img2: family2.jpg
+img3: family3.jpg
 category: Services
 title: Events Coverage:<br>Birthdays & Family
 description: |

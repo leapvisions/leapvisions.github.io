@@ -1,9 +1,12 @@
 ---
 layout: default
-img: graduation.jpg
+slider: slider3
+img1: graduation1.jpg
+img2: graduation2.jpg
+img3: graduation3.jpg
 category: Services
 title: Graduation Shoot
 description: |
 ---
-Celebrate this momentous occasion with your friends! Rates at S$200 for 3 hours<br><br>
+Celebrate this momentous occasion with your friends! Rates at S$200 for 3 hours<br>
 <a class="page-scroll" href="#contact">Enquire now</a>

@@ -1,6 +1,9 @@
 ---
 layout: default
-img: events.jpg
+slider: slider1
+img1: events1.jpg
+img2: events2.jpg
+img3: events3.jpg
 category: Services
 title: Events Coverage:<br>Corporate Functions
 description: |
