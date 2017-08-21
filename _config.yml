@@ -1,0 +1,31 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://leapvisions.com
+title: Leap Visions
+email: hello@leapvisions.com
+author: Joel Khoo
+description: > # "Freelance photography services for corporate events, family, wedding and graduation ceremonies in Singapore.
+copyright: 'Copyright &copy; 2017 Leap Visions. All Rights Reserved.'
+credits: 'For booking enquiries +65-85904779'
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: instagram
+    url: https://www.instagram.com/vitaminkhoo/
+  - title: facebook
+    url: https://web.facebook.com/ffchaser/
+  - title: flickr
+    url: https://www.flickr.com/ffchaser
