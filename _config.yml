@@ -29,3 +29,6 @@ social:
     url: https://fb.me/leapvisions
   - title: flickr
     url: https://www.flickr.com/ffchaser
+
+plugins:
+  - jekyll-seo-tag
