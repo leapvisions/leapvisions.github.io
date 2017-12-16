@@ -8,5 +8,5 @@ category: Services
 title: Events Coverage:<br>Birthdays & Family
 description: |
 ---
-  For those life moments and special anniversaries. Rates from S$60/hr<br><br> 
+  For those life moments and special anniversaries. Rates from S$80/hr<br><br> 
   <a class="page-scroll" href="#contact">Enquire now</a>
