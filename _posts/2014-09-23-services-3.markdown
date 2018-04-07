@@ -8,5 +8,5 @@ category: Services
 title: Graduation Shoot
 description: |
 ---
-Celebrate this momentous occasion with your friends! Rates at S$250 for 3 hours<br>
+Celebrate this momentous occasion with your friends! Rates at S$250 for 3 hours<br><br>
 <a class="page-scroll" href="#contact">Enquire now</a>
